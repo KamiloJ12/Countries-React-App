@@ -33,7 +33,4 @@ Me diviertí mucho desarrollando la aplicación.
 ![Detalles!](/assets/img/detalle.jpg "Detalles")
 ![Form!](/assets/img/form.jpg "Form")
 ![Activities!](/assets/img/addactivities.jpg "Activities")
-## Contactame
-- Gmail : <antonio.moreno.dev@gmail.com>
-- LinkedIn : [a-moreno-dev](https://www.linkedin.com/in/a-moreno-dev/)
 
